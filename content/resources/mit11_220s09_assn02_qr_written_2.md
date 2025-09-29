@@ -7,6 +7,8 @@ description: Assignment to read a journal article reporting the results of a qua
 file: /courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/7da0408d8a82e3e343df609d2ec5a253_MIT11_220s09_assn02_QR_Written_2.pdf
 file_size: 138191
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

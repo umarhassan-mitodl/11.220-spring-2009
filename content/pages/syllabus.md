@@ -4,6 +4,8 @@ description: This syllabus section provides an overview of the course, informati
   on meeting times, requirements, grading, lectures recitation sections, and lab sections,
   and notes on quantitative and qualitative methods, quantitative reasoning, knowledge,
   and belief.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

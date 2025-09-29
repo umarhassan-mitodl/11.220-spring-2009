@@ -5,6 +5,8 @@ description: 'Supporting file for Computer Lab #3: a Data set containing observa
 file: /courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/305e6940ab74566b234edbf9b5f6ea0a_hedonic.dta
 file_size: 13007
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
