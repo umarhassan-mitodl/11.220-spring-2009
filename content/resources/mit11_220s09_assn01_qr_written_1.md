@@ -5,8 +5,6 @@ description: Writing assignment on how to turn planning concepts into quantifiab
 file: /courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/f5d5a94c247b5e6a8459ded56b0d9680_MIT11_220s09_assn01_QR_Written_1.pdf
 file_size: 121552
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

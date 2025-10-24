@@ -5,8 +5,6 @@ description: "Writing assignment to gather and analyze your own quantitative inf
 file: /courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/4602a648735851e80613060386231f01_MIT11_220s09_assn03_QR_Written_3.pdf
 file_size: 145399
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

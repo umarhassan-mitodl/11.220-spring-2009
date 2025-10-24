@@ -4,8 +4,6 @@ description: Lecture presentation on lattice plots.
 file: /courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/a29b7d668ec7f04c673bbd44d43bdf43_MIT11_220s09_lec21Lattice.pdf
 file_size: 90233
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
